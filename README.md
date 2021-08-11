@@ -1,2 +1,4 @@
 # Java_Calculator
-Basic Calculator in Java
+## Prerequisites:
+- While loop
+- Nested If-else statement
